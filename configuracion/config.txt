@@ -1,0 +1,20 @@
+#Este archivo te permite configurar distintos aspectos del programa
+#Aquellas lineas que empiecen por hashtag son comentarios y no afectan al programa
+
+#Porcentaje de las acciones(minimo 10):
+@drawing = 10
+@flexing = 10
+@floor_cleaning = 10
+@front_sitting = 10
+@gaming = 20
+@looking_sit = 20
+@looking_stand = 10
+@sitting = 150
+@washing = 10
+@walk = 50
+
+
+#Cambia el tamaño de la entity
+Multiplicador de escala = 1.5
+
+
