@@ -12,6 +12,7 @@ Se trata de un sistema dinámico en el que con añadir animaciones a la carpeta 
 
 Está basado en como hacian los videojuegos antiguos como mortal kombat que con una secuencia de fotos se conseguia una animación. En otras palabras, un GIF...
 Aquí esta la lista de animaciones que hice en su momento:
+
 ![{5E9D8254-7275-4DCC-BA82-50303F03CF12}](https://github.com/user-attachments/assets/e1ab0921-4172-40dc-97d2-54a40bc6f07b)
 
 Este es mi primer proyecto que completé y organicé de verdad. Y obviamente, no es para nada perfecto. El código es código sucio puesto que no sabía todo lo que se ahora, un año después. Lo subo con tal de tenerlo documentado.
